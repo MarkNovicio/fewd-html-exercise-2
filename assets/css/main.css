@@ -1,0 +1,57 @@
+html {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    /*background-image: url('../images/Willis-Tower.JPG');
+    background-color: cadetblue;*/
+    background-image: url(https://images.freeimages.com/images/large-previews/535/natural-wonders-1400924.jpg);
+    height: 200px;
+    width: 100%;
+
+}
+
+.nav-button {
+    display: inline-block;
+    padding: 0 10%;
+    font-size: 30px;
+}
+
+.nav-button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-button src {
+    color: #fff;
+}
+
+
+
+ul {
+    margin: 0;
+}
+
+#section-one-image {
+    transform: rotate(90deg);
+    height: 75%;
+    width: 250px;
+    padding: 20px;
+
+}
+
+
+a:hover {
+    color: burlywood;
+    font-weight: bold;
+}
+
+#section-two-image {
+    height: 250px;
+    width: 100%;
+
+}
